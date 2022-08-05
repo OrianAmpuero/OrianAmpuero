@@ -1,9 +1,15 @@
-### Hi there 👋
+<p align="center" width="300">
+   <img align="center" width="200" src="https://github.com/OrianAmpuero/Images/blob/main/images/foto%20github%20oriana.png" />
+   <h3 align="center">Hello World👋! I'm Oriana Ampuero 👨🏻‍💻</h3>
+</p>
 
-<!--
-**OrianAmpuero/OrianAmpuero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <strong>Data Analyst</strong> with background in Marketing.<br /> know me better👇!</p>
+<p align="center">
+   <a href="https://www.linkedin.com/in/oriana-ampuero/" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="midudev" height="28px" width="28px" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
