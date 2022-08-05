@@ -23,5 +23,3 @@
 
   ---
   
- ![github stats](https://github-readme-stats.vercel.app/api?username=OrianAmpuero&show_icons=true&theme=onedark)
- ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OrianAmpuero)
