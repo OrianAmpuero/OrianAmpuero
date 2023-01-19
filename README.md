@@ -2,7 +2,11 @@
 
 <p align="center" width="300">
    <img align="center" width="200" src="https://github.com/OrianAmpuero/Images/blob/main/images/Dise%C3%B1o%20sin%20t%C3%ADtulo.png" />
-   <h3 align="center">Hello World👋! I'm Oriana Ampuero 😃</h3>
+   <h3 align="center">Hello World👋!</h3>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Oriana+Ampuero😃..&hearts;++;Love+MARKETING+and+DATA,;I'm+now+an+Instructor+at+Ironhack,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 <p align="center"> <strong>Data Analyst</strong> with background in Marketing.<br /> know me better👇!</p>
