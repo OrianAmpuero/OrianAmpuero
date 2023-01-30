@@ -1,7 +1,7 @@
   ---
 
 <p align="center" width="300">
-   <img align="center" width="200" src="https://github.com/OrianAmpuero/Images/blob/main/images/Dise%C3%B1o%20sin%20t%C3%ADtulo.png" />
+   <img align="center" width="200" src="https://github.com/OrianAmpuero/Images/blob/main/images/foto%20github%20oriana.png" />
    <h3 align="center">Hello World👋!</h3>
 </p>
 
