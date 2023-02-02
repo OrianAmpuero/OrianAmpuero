@@ -21,7 +21,7 @@
 - 👯 I’m looking to collaborate on projects with new technologies
 - 💬 Ask me about Data Analysis, Marketing and Business
 - 📫 How to reach me: orianampuero@gmail.com
-- ⚡ Fun fact: Love new challenges, travelling and sharing with my family👨‍👩‍👧.
+- ⚡ Fun fact: Love new challenges, travelling and sharing with my family👨‍👩‍👧
 
   ---
   
